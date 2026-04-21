@@ -4,7 +4,7 @@
 
 I work at the intersection of architecture and technology — designing buildings, coordinating complex BIM workflows, and building web applications from scratch. I enjoy projects where spatial thinking meets code.
 
-My website
+**My website**
 [www.pswierczynski.pl](https://www.pswierczynski.pl/)
 
 
