@@ -1,12 +1,16 @@
-# Hi, I'm Przemek 👋
+# Hi, I'm Przemek
 
 **Architect · BIM Coordinator · Web Developer · Data Science**
 
 I work at the intersection of architecture and technology — designing buildings, coordinating complex BIM workflows, and building web applications from scratch. I enjoy projects where spatial thinking meets code.
 
+My website
+[www.pswierczynski.pl](https://www.pswierczynski.pl/)
+
+
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Web:** HTML · CSS · JavaScript · PHP · MySQL · WordPress  
 **Data & Scripting:** Python  
@@ -16,7 +20,7 @@ I work at the intersection of architecture and technology — designing building
 
 ---
 
-## 🚀 Projects
+## Projects
 
 ### [Hakara](https://github.com/pswierczynski/hakara)
 **Interactive storytelling platform**
@@ -54,7 +58,7 @@ A commercial website for a drone photography and videography business. Built wit
 
 ---
 
-## 📫 Contact
+## Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/pswierczynski)
 [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail)](mailto:)
