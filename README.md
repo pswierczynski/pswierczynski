@@ -1,6 +1,6 @@
 # Hi, I'm Przemek
 
-**Architect · BIM Coordinator · Web Developer · Data Science**
+**Architect · BIM Coordinator · Full-Stack Developer (Web & Applications)**
 
 I work at the intersection of architecture and technology — designing buildings, coordinating complex BIM workflows, and building web applications from scratch. I enjoy projects where spatial thinking meets code.
 
